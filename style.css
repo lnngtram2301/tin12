@@ -3,6 +3,11 @@ h1 {
 }
 ..tieiude {
   color: tomato;
-  font-weight: bold
-  font-size: 20pt
+  font-weight: bold;
+  font-size: 20pt;
+}
+.noidung {
+  color: black;
+  font-style: normal;
+  font-size: 14pt;
 }
