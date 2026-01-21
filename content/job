@@ -1,0 +1,47 @@
+<html>
+  <head> 
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../style.css">
+     <style>
+         h1 { color: green; text-align: center}
+      </style>
+  </head>
+    <body>
+      <h1> GIÁO VIÊN MẦM NON </h1>
+      <ol type="A" class="tieude">
+        <li > VAI TRÒ CỦA GIÁO VIÊN MẦM NON
+          <ul class="noidung">
+            <li> Giáo viên mầm non phụ trách chăm sóc và giáo dục trẻ trong độ tuổi từ 6 tháng đến 6 tuổi. Đây là "giai đoạn vàng" để hình thành nhân cách, ngôn ngữ và tư duy của một con người. </li>
+            <li> Người dẫn đường: Giúp trẻ làm quen với những kiến thức cơ bản về thế giới xung quanh. </li>
+            <li> Người chăm sóc: Đảm bảo trẻ ăn ngon, ngủ đủ và an toàn tuyệt đối tại trường. </li>
+            <li> Người bạn đồng hành: Lắng nghe, thấu hiểu và cùng trẻ vui chơi để phát triển kỹ năng xã hội. </li>
+          </ul>
+        </li>
+        <li > NHỮNG CÔNG VIỆC THƯỜNG NHẬT
+          <ul class="noidung">
+            <li> Đón trẻ: Trao đổi với phụ huynh về tình hình sức khỏe, tâm lý của trẻ. </li>
+            <li> Tổ chức hoạt động học tập: Dạy vẽ, hát, múa, kể chuyện và làm quen với chữ cái, con số. </li>
+            <li> Tổ chức vui chơi: Hướng dẫn các trò chơi vận động, trò chơi dân gian. </li>
+            <li> Chăm sóc sinh hoạt: Cho trẻ ăn trưa, vệ sinh cá nhân và trông trẻ ngủ trưa. </li>
+            <li> Sáng tạo đồ dùng dạy học: Tự tay làm các món đồ chơi, trang trí lớp học theo chủ đề. </li>
+            <li> Thiết kế mạng LAN </li>
+          </ul>  
+        </li>
+        <li > NHỮNG YẾU TỐ CẦN THIẾT
+          <ul class="noidung">
+            <li> Lòng kiên nhẫn: Đây là yếu tố quan trọng nhất để xử lý những tình huống trẻ quấy khóc, biếng ăn hay nghịch ngợm. </li>
+            <li> Sự khéo léo và đa tài: Biết hát, múa, vẽ, kể chuyện và làm đồ thủ công là một lợi thế lớn. </li>
+            <li> Khả năng quan sát: Để kịp thời phát hiện những thay đổi về sức khỏe hoặc tâm lý của trẻ. </li>
+            <li> Sự điềm tĩnh: Giữ được thái độ nhẹ nhàng ngay cả khi áp lực công việc lên cao. </li>
+          </ul>
+        </li>  
+          <li > ƯU ĐIỂM
+            <ul class="noidung">
+              <li> Sống trong sự tích cực: Tiếp xúc với trẻ thơ giúp bạn tránh xa những toan tính phức tạp của thế giới người lớn. </li>
+              <li> Ngành nghề "không bao giờ lỗi thời": Trẻ em luôn cần được chăm sóc và dạy dỗ. Xã hội càng phát triển, phụ huynh càng đầu tư mạnh tay cho giáo dục sớm. </li>
+            </ul>
+          </li>
+        </li>
+      </ol>
+    </body>
+</html>
