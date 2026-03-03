@@ -7,11 +7,12 @@
   flex: 20%;
   background-color: lightgray
   background: url("images/logonq.png") center/100% 100% ;
+  aspect-ratio: 6/1;
 }
 .menu{
   flex: 5%;
   background-color: darkgray;
-  display:flex;
+  display: flex;
   align-items: center;
 }
 .menu a{
