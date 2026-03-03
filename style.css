@@ -6,7 +6,7 @@
 .header{
   flex:30%;
   background-color: lightgray
-  background: url("images/;
+  background: url("images/logonq.png") center/100% 100% ;
 }
 .menu{
   flex: 25%;
