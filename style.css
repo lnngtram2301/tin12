@@ -5,7 +5,8 @@
 }
 .header{
   flex:30%;
-  background-color: lightgray;
+  background-color: lightgray
+  background: url("images/;
 }
 .menu{
   flex: 25%;
