@@ -6,8 +6,8 @@
 .header{
   flex: 20%;
   background-color: darkgray;
-  background: url("images/1772592860649.png.jpg") center/100% 100% ;
-  aspect-ratio: 6/1;
+  background: url("images/tuyensinhngoquyen.jpg") center/100% 100% ;
+  aspect-ratio: 6/1; 
 }
 .menu{
   flex: 5%;
@@ -31,7 +31,7 @@
   flex: 1;
   border: none;
   width: 100%;
-  height: 100%;
+  height: 100%; 
 }
 .footer{
   flex: 5%;
