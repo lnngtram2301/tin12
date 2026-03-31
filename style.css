@@ -5,22 +5,22 @@
 }
 .header{
   flex: 20%;
-  background-color: lightgray;
-  background: url("image/1772592860649.png") center/100% 100% ;
+  background-color: darkgray;
+  background: url("images/tuyensinhngoquyen.jpg") center/100% 100% ;
   aspect-ratio: 6/1;
 }
 .menu{
   flex: 5%;
-  background-color: darkgray;
+  background-color: lightgray;
   display: flex;
   align-items: center;
 }
 .menu a{
   padding: 15px 20px;
-  color: pink;
+  color: brown;
 }
 .menu a:hover{
-  background-color: lightgray;
+  background-color: darkgray;
   color: black;
 }
 .content{
@@ -38,10 +38,10 @@
   background-color: lightgray;
 }
 h1 {
-  color: green;
+  color: red;
 }
 .tieude {
-  color: tomato;
+  color: crimson;
   font-weight: bold;
   font-size: 20pt;
 }
